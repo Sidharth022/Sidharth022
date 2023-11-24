@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sidharth022
-- 👀 I’m interested in web devlopement 
-- 🌱 I’m currently learning react and jquery 
-- 💞️ I’m looking to collaborate on mnc 
+- 🖥️ Full Stack Developer 
+- 🌐 WordPress Development 
+- 🌐 Web Design 
 - 📫 my imstagram profile is sidharth__gaur
 
 <!---
