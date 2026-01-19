@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sidharth Gaur – PHP & WordPress Developer
+# 👋 Hi, I'm Sidharth Gaur – Software Developer
 
 I'm a full-stack web developer with **3 years of experience** in the IT industry, specializing in **WordPress**, **PHP**, and **modern frontend/backend technologies**. I’ve developed and optimized high-quality web products for platforms like **JVZoo** and **ThemeForest**, delivering fast, scalable, and SEO-friendly solutions that meet real business needs.
 
